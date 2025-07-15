@@ -13,21 +13,22 @@ navbar.innerHTML = `
                         <ul id="navbarLinks" data-aos="fade-right"
                             class="lg:flex font-medium text-lg hidden items-center text-[#1D2939] gap-10">
                             <li><a href="/index.html"
-                                    class="hover:opacity-60 tracking-wide  transition-all duration-500">Home</a>
+                                    class="hover:opacity-60 tracking-wide  transition-all duration-500">Accueil</a>
                             </li>
                             <li><a href="/about.html"
-                                    class="hover:opacity-60 tracking-wide transition-all duration-500">About Us</a>
+                                    class="hover:opacity-60 tracking-wide transition-all duration-500">Vision & Valeurs</a>
                             </li>
                             <li><a href="/services.html"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Services</a>
                             </li>
+                            <!--  
                             <li><a href="/index.html#equipe"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Notre
                                     Equipe</a>
                             </li>
+                            -->
                             <li><a href="/contact.html"
-                                    class="hover:opacity-60 tracking-wide transition-all duration-500">Contact
-                                    Us</a>
+                                    class="hover:opacity-60 tracking-wide transition-all duration-500">Nous Contacter</a>
                             </li>
                         </ul>
                     </div>
@@ -50,21 +51,22 @@ navbar.innerHTML = `
         <div class="p-6">
             <ul class="flex relative z-50 text-[#1D2939] flex-col gap-7">
                <li><a href="/index.html"
-                                    class="hover:opacity-60 text-nowrap tracking-wide  transition-all duration-500">Home</a>
+                                    class="hover:opacity-60 text-nowrap tracking-wide  transition-all duration-500">Accueil</a>
                             </li>
                             <li><a href="/about.html"
-                                    class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">About Us</a>
+                                    class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Vision & Valeurs</a>
                             </li>
                             <li><a href="/services.html"
                                     class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Services</a>
                             </li>
+                            <!-- 
                             <li><a href="/index.html#equipe"
                                     class="hover:opacity-60 mobileMenuCloseBtn text-nowrap tracking-wide transition-all duration-500">Notre
                                     Equipe</a>
                             </li>
+                             -->
                             <li><a href="/contact.html"
-                                    class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Contact
-                                    Us</a>
+                                    class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Nous Contacter</a>
                             </li>
             </ul>
         </div>

@@ -52,25 +52,25 @@ input:user-invalid {
 
 .contactBanner {
     background: linear-gradient(270deg, rgba(29, 41, 57, 0) -5.9%, #1D2939 99.57%),
-        url(/docs/assets/images/contact.jpg) no-repeat center center;
+        url(/docs/assets/images/contact.png) no-repeat center center;
     background-size: cover;
 }
 
 .service1 {
     background: linear-gradient(270deg, rgba(29, 41, 57, 0) -5.9%, #1D2939 99.57%),
-        url(/docs/assets/images/service1.jpg) no-repeat center center;
+        url(/docs/assets/images/ref.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .services2 {
     background: linear-gradient(270deg, rgba(29, 41, 57, 0) -5.9%, #1D2939 99.57%),
-        url(/docs/assets/images/services2.jpg) no-repeat center center;
+        url(/docs/assets/images/compliance.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .services3 {
     background: linear-gradient(270deg, rgba(29, 41, 57, 0) -5.9%, #1D2939 99.57%),
-        url(/docs/assets/images/services3.jpg) no-repeat center center;
+        url(/docs/assets/images/Management-de-Transition.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -78,5 +78,31 @@ input:user-invalid {
     .servicePath {
         clip-path: polygon(2rem 0, 100% 0%, 35.5rem 100%, 0% 100%);
 
+    }
+}
+
+.typing-loop {
+    display: inline-block;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 2px solid #23B695;
+    animation: typingLoop 4s steps(10) infinite;
+}
+
+@keyframes typingLoop {
+    0% {
+        width: 0;
+    }
+
+    40% {
+        width: 8.5ch;
+    }
+
+    60% {
+        width: 8.5ch;
+    }
+
+    100% {
+        width: 0;
     }
 }

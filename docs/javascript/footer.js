@@ -31,7 +31,7 @@ footer.innerHTML = `
             </div>
             <div class="w-full h-[1px] my-10 bg-[#C6C8D0]"></div>
             <div class="flex items-center justify-between gap-5 md:flex-row flex-col">
-                <p class="text-[#F3F3F5]">© 2025 Lexura. All rights reserved.</p>
+                <p class="text-[#F3F3F5]">© 2025 Lexora. All rights reserved.</p>
                 <div class="flex items-center gap-7">
                     <a href="#"><i
                             class="fa-brands transition-all duration-500 hover:opacity-70 fa-twitter text-[#23B695] text-2xl"></i></a>
