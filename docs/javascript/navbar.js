@@ -21,7 +21,7 @@ navbar.innerHTML = `
                             <li><a href="/services.html"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Services</a>
                             </li>
-                            <li><a href="/notre.html"
+                            <li><a href="/index.html#equipe"
                                     class="hover:opacity-60 tracking-wide transition-all duration-500">Notre
                                     Equipe</a>
                             </li>
@@ -58,8 +58,8 @@ navbar.innerHTML = `
                             <li><a href="/services.html"
                                     class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Services</a>
                             </li>
-                            <li><a href="/notre.html"
-                                    class="hover:opacity-60 text-nowrap tracking-wide transition-all duration-500">Notre
+                            <li><a href="/index.html#equipe"
+                                    class="hover:opacity-60 mobileMenuCloseBtn text-nowrap tracking-wide transition-all duration-500">Notre
                                     Equipe</a>
                             </li>
                             <li><a href="/contact.html"
