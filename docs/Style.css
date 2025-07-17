@@ -51,8 +51,7 @@ input:user-invalid {
 }
 
 .contactBanner {
-    background: linear-gradient(270deg, rgba(29, 41, 57, 0) -5.9%, #1D2939 99.57%),
-        url(/docs/assets/images/contact.png) no-repeat center center;
+    background: url(/docs/assets/images/contact.png) no-repeat center center;
     background-size: cover;
 }
 
@@ -86,7 +85,7 @@ input:user-invalid {
     white-space: nowrap;
     overflow: hidden;
     border-right: 2px solid #23B695;
-    animation: typingLoop 4s steps(10) infinite;
+    animation: typingLoop 6s steps(9) infinite;
 }
 
 @keyframes typingLoop {
@@ -94,12 +93,19 @@ input:user-invalid {
         width: 0;
     }
 
-    40% {
+    30% {
         width: 8.5ch;
+        /* finish typing */
     }
 
-    60% {
+    80% {
         width: 8.5ch;
+        /* hold for 3 seconds */
+    }
+
+    81% {
+        width: 0;
+        /* instantly hide */
     }
 
     100% {
