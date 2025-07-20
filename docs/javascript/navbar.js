@@ -35,8 +35,7 @@ navbar.innerHTML = `
                 </div>
             </div>
                 <div data-aos="fade-left" class="">
-                <a href="/contact.html" class="lg:block hover:opacity-80 tracking-wide transition-all duration-500 hidden text-nowrap rounded-full px-8 py-3.5 bg-[#003060] text-white Montserrat">Contact
-                Us</a>
+                <a href="https://www.linkedin.com/company/lexoracorp/?viewAsMember=true" class="lg:block hover:opacity-80 tracking-wide transition-all duration-500 hidden  Montserrat"><i class="fa-brands text-3xl text-[#003060]  fa-linkedin"></i></a>
                 </div>
             <i data-aos="fade-left" id="mobileMenuBtn"
                 class="fa-solid text-zinc-800 fa-bars lg:!hidden text-2xl cursor-pointer mr-2"></i>
