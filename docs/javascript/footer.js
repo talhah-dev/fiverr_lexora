@@ -16,39 +16,24 @@ footer.innerHTML = `
                 </div>
 
                 <ul data-aos="fade-up" data-aos-delay="100" class="flex sm:items-center text-[#EAECF0] md:gap-10 gap-5 sm:flex-row flex-wrap flex-col">
-                    <li><a href="/index.html#about" class="text-xl transition-all duration-500 hover:opacity-60">Who We
-                            Are</a></li>
+                    <li><a href="/index.html#about" class="text-xl transition-all duration-500 hover:opacity-60">Qui sommes-Nous?</a></li>
                     <li><a href="/services.html"
                             class="text-xl transition-all duration-500 hover:opacity-60">Services</a></li>
                     <li><a href="#vision" class="text-xl transition-all duration-500 hover:opacity-60">Vision & Values</a>
                     </li>
                     <li><a href="/contact.html" class="text-xl transition-all duration-500 hover:opacity-60">Contact</a>
                     </li>
-                    <li><a href="#" class="text-xl transition-all duration-500 hover:opacity-60">Terms & Conditions</a>
+                    <li><a href="#" class="text-xl transition-all duration-500 hover:opacity-60">Mentions Légales</a>
                     </li>
-                    <li><a href="#" class="text-xl transition-all duration-500 hover:opacity-60">Privacy Policy</a></li>
+                    <li><a href="#" class="text-xl transition-all duration-500 hover:opacity-60">Politique de confidentialité</a></li>
                 </ul>
             </div>
             <div class="w-full h-[1px] my-10 bg-[#C6C8D0]"></div>
             <div class="flex items-center justify-between gap-5 md:flex-row flex-col">
                 <p class="text-[#F3F3F5]">© 2025 Lexora. All rights reserved.</p>
                 <div class="flex items-center gap-7">
-                    <a href="#"><i
-                            class="fa-brands transition-all duration-500 hover:opacity-70 fa-twitter text-[#23B695] text-2xl"></i></a>
-                    <a href="#"><i
+                    <a href="https://www.linkedin.com/company/lexoracorp/?viewAsMember=true"><i
                             class="fa-brands transition-all duration-500 hover:opacity-70 fa-linkedin text-[#23B695] text-2xl"></i></a>
-                    <a href="#"><i
-                            class="fa-brands transition-all duration-500 hover:opacity-70 fa-facebook text-[#23B695] text-2xl"></i></a>
-                    <a href="#"><i
-                            class="fa-brands transition-all duration-500 hover:opacity-70 fa-github text-[#23B695] text-2xl"></i></a>
-                    <a href="#">
-                        <img src="/docs/assets/images/icon6.svg"
-                            class="h-[24px] transition-all duration-500 hover:opacity-70" alt="">
-                    </a>
-                    <a href="#">
-                        <img src="/docs/assets/images/icon7.svg"
-                            class="h-[24px] transition-all duration-500 hover:opacity-70" alt="">
-                    </a>
                 </div>
             </div>
         </div>
