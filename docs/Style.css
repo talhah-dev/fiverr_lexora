@@ -69,7 +69,7 @@ input:user-invalid {
 
 .services3 {
     background: linear-gradient(270deg, rgba(29, 41, 57, 0) -5.9%, #1D2939 99.57%),
-        url(/docs/assets/images/Management-de-Transition.jpg) no-repeat center center;
+        url(/docs/assets/images/Management-de-Transition.jpg) no-repeat bottom center;
     background-size: cover;
 }
 
